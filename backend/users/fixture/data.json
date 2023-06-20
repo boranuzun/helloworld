@@ -1,0 +1,211 @@
+[
+  {
+    "model": "users.customuser",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$3rBLrJfbqY9WvNLooWwgVf$bXSRLoIB8XDa12RiNl17EznPCp776W0ftQvLgJfC9fM=",
+      "last_login": "2023-05-30T13:02:10.272Z",
+      "is_superuser": true,
+      "username": "gianou",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-05-14T21:58:43.100Z",
+      "email": "david@example.com",
+      "profilePic": "https://api.multiavatar.com/af.svg",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$WQBOWOXFIBekwCboeZOTqG$AO6OKg4KMo/1TTTdNd0ebuBRb+4EYUfXIpKqUii3cKE=",
+      "last_login": null,
+      "is_superuser": true,
+      "username": "eleonora",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-05-14T22:00:13.598Z",
+      "email": "eleonora@example.com",
+      "profilePic": "https://api.multiavatar.com/ae.svg",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$zwmaroYUC2RwnzX96abB27$fw3/0paeOctcExVhwGtgjERXg/OueCzUDwdsB7OPMKA=",
+      "last_login": null,
+      "is_superuser": true,
+      "username": "boran",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-05-14T22:00:32.750Z",
+      "email": "boran@example.com",
+      "profilePic": "https://api.multiavatar.com/ndro2g.svg",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 4,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$ohezXAvUWYslytHO8BNHnH$1Ya3RWZ7gaijOcov3B1NSrKPMn7UGZUPowQfW5SPnvs=",
+      "last_login": "2023-05-19T08:30:46.694Z",
+      "is_superuser": true,
+      "username": "fllet",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-05-14T22:00:52.773Z",
+      "email": "ian@example.com",
+      "profilePic": "https://api.multiavatar.com/ac.svg",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 5,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$pvSw3bXUYqkOpzrQLhUTnq$J2BvmzIkvtcOgCAL+jTNS2Cxrv1vra21M4sxaG3Tpiw=",
+      "last_login": null,
+      "is_superuser": true,
+      "username": "szymon",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-05-14T22:01:29.204Z",
+      "email": "szymon@example.com",
+      "profilePic": "https://api.multiavatar.com/ab.svg",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 8,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$oWqkNvDikjEEL9M5ucidKS$e0JKiVm9ytNM9btJZWck+SxHoGPoFrNYtQXWsS8tDXc=",
+      "last_login": "2023-05-30T13:41:17.703Z",
+      "is_superuser": false,
+      "username": "Ellen",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-30T13:17:38.901Z",
+      "email": "ellen@example.com",
+      "profilePic": "https://api.multiavatar.com/8tej0i.svg",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 9,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$WEfRMgd3guqGJse98lqI6q$yQzivuhoEKOBVisrLLXHpKkXzBoHLOCq8dYZ3w8SgE8=",
+      "last_login": "2023-05-30T13:43:05.621Z",
+      "is_superuser": false,
+      "username": "Grace",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-30T13:19:33.278Z",
+      "email": "grace@example.com",
+      "profilePic": "https://api.multiavatar.com/ezuxz.svg",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 10,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$WafJaHCRKIYd2VncdhzzGL$7QTFrug4hDjVpa7MkJwGmpKRQ6QRudTXPERjzZ1Rr48=",
+      "last_login": "2023-05-30T13:45:15.045Z",
+      "is_superuser": false,
+      "username": "Brendon",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-30T13:21:01.573Z",
+      "email": "brendon@example.com",
+      "profilePic": "https://api.multiavatar.com/z7ym2.svg",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 11,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$t9dtZY89rLcjev4pY9zqOH$0lpw9V2Audl0l0LzuKWglCjQ84zc1qgbYK5BCty83iw=",
+      "last_login": "2023-05-30T13:47:50.650Z",
+      "is_superuser": false,
+      "username": "Steffan",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-30T13:21:34.437Z",
+      "email": "steffan@example.com",
+      "profilePic": "https://api.multiavatar.com/ypea4.svg",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 12,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$jLP3PZv2huBGhM9noiTewR$JnVi4hcCo8jNtphg+sntPaLIpnqQPn/VWrNqQpbBgqA=",
+      "last_login": "2023-05-30T13:50:36.101Z",
+      "is_superuser": false,
+      "username": "Kabir",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-30T13:21:54.808Z",
+      "email": "kabir@example.com",
+      "profilePic": "https://api.multiavatar.com/h7oyh.svg",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 13,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$tvhkEDundWecH1Tuv5nvdx$TQ7snzR/ry4Gi4BrRGi2N+br2U/TvRmmuekporliZ+Y=",
+      "last_login": "2023-05-30T13:51:59.672Z",
+      "is_superuser": false,
+      "username": "Tammy",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-30T13:23:18.399Z",
+      "email": "tammy@example.com",
+      "profilePic": "https://api.multiavatar.com/zn0np.svg",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
