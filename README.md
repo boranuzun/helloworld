@@ -1,5 +1,9 @@
 # Project HelloWorld
 
+> ⚠️ ARCHIVED — This project is no longer maintained.
+>
+> Last updated: 1 November 2025
+
 <div align=center>
 <a href="https://helloworld.rxq.ch/#/"><img src="src/assets/HelloWorldWhiteSmall.png"/></a>
 </div>
